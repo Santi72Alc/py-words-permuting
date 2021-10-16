@@ -1,0 +1,2 @@
+*pal1 pal2 pal3 pal4 *pal5 pal6 pal7 *pal8
+pal9 pal10 pal11 *pal12 pal13
